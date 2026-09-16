@@ -2,7 +2,7 @@
 // Thêm nội dung mới 
 function login(username, password) {
   const validUsername = "admin";
-  const validPassword = "123";
+  const validPassword = "9999";
   const lockedUsers = ["locked_user"];
 
   if (!username || !password) {
