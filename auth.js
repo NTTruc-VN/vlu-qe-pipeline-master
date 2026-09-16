@@ -1,4 +1,5 @@
 // auth.js
+// Thêm nội dung mới 
 function login(username, password) {
   const validUsername = "admin";
   const validPassword = "123";
